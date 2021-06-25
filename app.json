@@ -1,0 +1,12 @@
+{
+  "name": "toDoListApp2",
+  "displayName": "toDoListApp2",
+  "expo": {
+    "name": "toDoListApp2",
+    "slug": "toDoListApp2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
