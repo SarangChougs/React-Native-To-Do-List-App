@@ -1,0 +1,19 @@
+requirements of app:
+
+1. text input field
+2. button
+3. list
+	1. title
+	2. delete icon/button
+
+UI done
+
+Logic:
+
+functions:
+	1. addItem(title)
+		add the item into the list (array)
+	2. deleteItem(item)
+		delete the item from the list
+	3. displayList(list)
+		to display the items list
